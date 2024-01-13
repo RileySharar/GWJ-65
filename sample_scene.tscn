@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://cfo15eg4j2x74"]
 
 [node name="Sample Scene" type="Node2D"]
+
+[node name="My Change" type="Node2D" parent="."]
